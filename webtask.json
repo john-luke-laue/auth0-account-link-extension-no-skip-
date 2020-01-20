@@ -1,8 +1,8 @@
 {
   "title": "Auth0 Account Link No Skip",
   "name": "auth0-account-link-no-skip",
-  "version": "0.2.0",
-  "preVersion": "0.1.0",
+  "version": "0.3.0",
+  "preVersion": "0.2.0",
   "author": "auth0",
   "description":
     "This extension forces Auth0 customers to link their accounts",
@@ -10,7 +10,7 @@
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-authz/assets/logo.svg",
   "docsUrl": "https://github.com/john-luke-laue/auth0-account-link-extension-no-skip/blob/master/README.md",
   "initialUrlPath": "/login",
-  "repository": "https://github.com/auth0-extensions/auth0-account-link-extension",
+  "repository": "https://github.com/john-luke-laue/auth0-account-link-extension-no-skip-",
   "keywords": ["auth0", "extension", "account-link"],
   "secrets": {
     "CUSTOM_CSS": {
