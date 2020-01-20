@@ -1,8 +1,8 @@
 {
   "title": "Auth0 Account Link No Skip",
   "name": "auth0-account-link-no-skip",
-  "version": "0.0.1",
-  "preVersion": "0.0.0",
+  "version": "0.2.0",
+  "preVersion": "0.1.0",
   "author": "auth0",
   "description":
     "This extension forces Auth0 customers to link their accounts",
